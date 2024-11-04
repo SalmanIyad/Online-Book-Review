@@ -29,7 +29,7 @@ Follow these steps to set up and run the application:
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://www.github.com/salmaniyad/book-review-ibm-project
+   git clone https://github.com/SalmanIyad/ibm-final-project
    ```
    
 ### 2. Navigate to the Project Directory
@@ -69,8 +69,8 @@ Follow these steps to set up and run the application:
 ---
 
 ## API Documentation
-سشيتبلا مشنتسيبكخ شاسيكخب ىلاشخ سيبنشتىسينت شسينبتىش نمسيتبلانمشتسيىب منشتسيىب
-For a complete guide on using the API, visit our detailed [API Documentation](https://documenter.getpostman.com/view/28416524/2s9YBxacHG).
+
+For a complete guide on using the API, visit our detailed [API Documentation](https://documenter.getpostman.com/).
 
 ---
 
