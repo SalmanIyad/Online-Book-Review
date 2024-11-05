@@ -29,12 +29,12 @@ Follow these steps to set up and run the application:
 
 ### 1. Clone the Repository
    ```bash
-   git clone https://github.com/SalmanIyad/ibm-final-project
+   git clone https://github.com/SalmanIyad/Online-Book-Review
    ```
    
 ### 2. Navigate to the Project Directory
    ```bash
-   cd book-review-ibm-project
+   cd Online-Book-Review
    ```
    
 ### 3. Install Dependencies
